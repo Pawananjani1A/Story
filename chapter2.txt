@@ -1,1 +1,4 @@
 Hello,I have just started using git and github.
+Then I listed all my branches on hyper using the command:
+'git branch'
+The branch preceeded by asterisk sign is the current branch i'm in
