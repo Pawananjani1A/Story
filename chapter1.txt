@@ -1,3 +1,0 @@
-I am Pawananjani  Kumar.
-I've created a new branch named 'alien-plot' using the command:
-'git branch alien-plot'
